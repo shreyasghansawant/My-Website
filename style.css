@@ -1,0 +1,112 @@
+#my_full_name{
+  margin-bottom:20px;
+}
+#monu{
+  font-family: 'Gaegu', cursive;
+  font-size: 25px;
+}
+.naviscool{
+  margin-right: 10px;
+  font-family: 'Kirang Haerang', cursive;
+  font-size: 25px;
+}
+#man{
+  font-family: 'Lobster', cursive;
+  font-family: 'Pacifico', cursive;
+  padding-top: 176px;
+  padding-bottom: 136px;
+  background: url(main_background_2_3.jpg) no-repeat;
+  background-size: cover;
+}
+#trying-to-do-some-cool-stuf{
+  display: none;
+}
+#stupid{
+  font-family: 'Lobster', cursive;
+  font-family: 'Concert One', cursive;
+  font-size: 25px;
+}
+#img1, #img2, #img3, #img4{
+  height: 180px;
+}
+@media screen and (max-width: 575px){
+  #my_full_name{
+    margin-bottom:15px;
+    font-size: 60px;
+    line-height: 115%;
+  }
+  #man{
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    background: url(main_background_2_3.jpg) no-repeat;
+    background-size: cover;
+  }
+  #stupid{
+    /*font-family: 'Lobster', cursive;
+    font-family: 'Concert One', cursive;
+    font-size: 25px;*/
+    display: none;
+  }
+  #trying-to-do-some-cool-stuf{
+    display: contents;
+    font-family: 'Lobster', cursive;
+    font-family: 'Concert One', cursive;
+    font-size: 25px;
+    line-height: 120%;
+  }
+}
+
+.cardb{
+  margin-bottom: 25px;
+  text-align: center;
+}
+.for_f{
+  font-family: 'Gamja Flower', cursive;
+  margin-top: 75px;
+  font-size: 50px;
+  color: white;
+}
+#cardpy1, #cardpy2, #cardpy3, #cardpy4, #cardpy5, #cardpy6{
+  width: 350px;
+  height: 300px;
+}
+.cardpy{
+  margin-bottom: 35px;
+}
+.link_of_py1, .link_of_py2{
+  padding-left: 35px;
+  padding-right: 35px;
+  color:white;
+  margin-right: 7px;
+}
+.link_of_py1{
+  border: 1px solid green;
+}
+.link_of_py2{
+  border: 1px solid yellow;
+}
+.link_of_py1:hover{
+  background-color: lightgreen;
+}
+.link_of_py2:hover{
+  background-color: lightyellow;
+}
+.social_logo{
+  padding-right: 8px;
+  margin-top: 15px;
+  margin-bottom: 13px;
+}
+.social_logo:hover{
+  opacity: 0.6;
+}
+
+@media screen and (max-width: 575px){
+  .social_logo{
+    padding-right: 4px;
+  }
+  .text_for_size{
+    margin-top: 50px;
+  }
+}
