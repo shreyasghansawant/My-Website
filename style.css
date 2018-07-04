@@ -44,17 +44,13 @@
     background-size: cover;
   }
   #stupid{
-    /*font-family: 'Lobster', cursive;
-    font-family: 'Concert One', cursive;
-    font-size: 25px;*/
     display: none;
   }
   #trying-to-do-some-cool-stuf{
-    display: contents;
+    display: block;
     font-family: 'Lobster', cursive;
     font-family: 'Concert One', cursive;
     font-size: 25px;
-    line-height: 120%;
   }
 }
 
