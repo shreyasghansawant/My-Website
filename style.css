@@ -1,9 +1,12 @@
 #my_full_name{
-  margin-bottom:20px;
+  margin-bottom:30px;
 }
 #monu{
   font-family: 'Gaegu', cursive;
   font-size: 25px;
+}
+#logoofmysite{
+	margin-right: 18px;
 }
 .naviscool{
   margin-right: 10px;
@@ -13,8 +16,8 @@
 #man{
   font-family: 'Lobster', cursive;
   font-family: 'Pacifico', cursive;
-  padding-top: 70px;
-  padding-bottom: 25px;
+  padding-top: 176px;
+  padding-bottom: 136px;
   background: url(main_background_2_3.jpg) no-repeat;
   background-size: cover;
 }
@@ -51,6 +54,10 @@
     font-family: 'Lobster', cursive;
     font-family: 'Concert One', cursive;
     font-size: 25px;
+	line-height: 138%;
+  }
+  #logoofmysite{
+    margin-right: 0px;
   }
 }
 
@@ -104,5 +111,11 @@
   }
   .text_for_size{
     margin-top: 50px;
+  }
+  .link_of_py1{
+    margin-left: 70px;
+  }
+  .link_of_py2{
+    margin-left: 65.50px;;
   }
 }
